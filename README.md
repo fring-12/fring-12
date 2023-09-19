@@ -33,6 +33,6 @@ const fring = {
 ### 📈 Github Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fring-12&show_icons=true&theme=dracula&line_height=33" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fring-12&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=fring-12&show_icons=true&theme=vue-dark&line_height=33" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fring-12&theme=vue-dark&line_height=10">
 </p>
