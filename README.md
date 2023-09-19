@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Banedict Fring Drong, frontend developer
+## Hi there 👋 Welcome to my GitHub! I'm Banedict Fring Drong, Software Engineer
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/banedict-fring-drong-a3a242166/">
