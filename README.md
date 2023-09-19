@@ -23,7 +23,8 @@ const fring = {
       css: ["Tailwind", "antDesign", "bootstrap", "materialize"],
     },
     backEnd: {
-      js: ["NodeJS", "ExpressJs", "NestJs", "MongoDB", "Firebase"],
+      js: ["NodeJS", "ExpressJs", "NestJs"],
+      database: ["MongoDB", "Firebase"]
     },
   },
 };
