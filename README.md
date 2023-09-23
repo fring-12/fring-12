@@ -19,7 +19,7 @@ const fring = {
   technologies: {
     frontEnd: {
       frameWork: ["ReactJs", "VueJs"],
-      packages: ["ReduxRtk", "React-Testing-Library", "Rematch"]
+      packages: ["ReduxRtk", "React-Testing-Library", "Rematch"],
       css: ["Tailwind", "antDesign", "bootstrap", "materialize"],
     },
     backEnd: {
